@@ -4,19 +4,19 @@ export const users: User[] = [
     {
         id: '1',
         name: 'Ivan Lara',
-        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/237701392_820046848593104_4269712248220123619_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=C4jV3Zhcip4AX-GdLr_&edm=ABfd0MgBAAAA&ccb=7-4&oh=d1e6f473c522f0fc9816947ba56ec572&oe=616FEDF0&_nc_sid=7bff83',
+        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/237701392_820046848593104_4269712248220123619_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Wp1YxXfmvvUAX-kqo_j&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-3NdOjddkx6Wh1PcU6zWfTBSnVaq53f1ZRyKG_JQ81Sw&oe=61CA7658&_nc_sid=7bff83',
         isOnline: true,
     },
     {
         id: '2',
         name: 'Josep Pedredol',
-        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/12070954_104307003259594_1269829117_a.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=kVPRm7B9takAX8Q6HRs&edm=ABfd0MgBAAAA&ccb=7-4&oh=f24cfeb51fb3cab0161733747b3e2f27&oe=616FAB54&_nc_sid=7bff83',
+        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/12070954_104307003259594_1269829117_a.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=buNwIOBEVmoAX9jrY8D&edm=ALCvFkgBAAAA&ccb=7-4&oh=00_AT9cYA1zLoXwJs_3UKC-b8UpY2tENnYxtKkLq4ueh9hWbg&oe=61CAA2D4&_nc_sid=643ae9',
         isOnline: true,
     },
     {
         id: '10',
         name: 'Leo Messi',
-        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/43818140_2116018831763532_3803033961098117120_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=6ALn7OyV0dcAX9fPhAM&edm=ABfd0MgBAAAA&ccb=7-4&oh=0b515d9462689b50bcc3902fd479b7cc&oe=61709BF2&_nc_sid=7bff83',
+        thumbnail: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/43818140_2116018831763532_3803033961098117120_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=uSxLHucOZkEAX8pzgaC&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT-bjqGtlXTNVCBArFcZkEjjE23v-3qAQDk0m8XbLRXpbw&oe=61CB400A&_nc_sid=9a90d6',
         isOnline: true,
     },
 ];
@@ -24,39 +24,39 @@ export const users: User[] = [
 export const stories: Story[] = [
     {
         id: '1',
-        name: "Elon Must",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/140055104_113817703985274_7306032941371618956_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=kYoLA7wEj5QAX-V0k-K&edm=ABfd0MgBAAAA&ccb=7-4&oh=dda024b86bc2e0f92904e5439aa396f0&oe=616F9FCC&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/242806876_1017113635743073_5366202242819072983_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=8gtz4W67w0oAX_-9aIb&edm=AP_V10EBAAAA&ccb=7-4&oh=c7af44ecd14e09a351f22acd8b784833&oe=616FD1B5&_nc_sid=4f375e",
+        name: "Elon Musk",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/44329317_268583430479565_454483638147350528_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=VC5XU47OtwkAX9p-PZp&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT8c2qAlx0AyuUqbau_mZHQFjvAV6o_xKz2jjCiT6ZIEuQ&oe=61C9B630&_nc_sid=4f375e",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/264669482_597386234813170_856910295181981436_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ueaWUmcYbBcAX8M-Tap&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT8OAeBzhCYZZeM12YfrUYDoqkikyEiSYsJOfkmiHQOBMA&oe=61CAED11&_nc_sid=4f375e",
     },
     {
         id: '2',
         name: "Jeff Bezos",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/20065787_368487153565914_9007716647976304640_a.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=b9zc55pBJNAAX_7F8AI&edm=ABfd0MgBAAAA&ccb=7-4&oh=67a14c71d051934a8e1e378f7c668c53&oe=61702AD8&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/245652416_422699685925293_8010477044198893297_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=lpqwbWrlSh4AX_DCzq9&edm=AP_V10EBAAAA&ccb=7-4&oh=4ef4debba1686dcf045c75fd6019944b&oe=616FB6F4&_nc_sid=4f375e",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/20065787_368487153565914_9007716647976304640_a.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=GVNgN1NXMPEAX8Ryz61&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-TfI2ILAFPfneY_66LWcqssqIXvM_YNWmPe3dQLZDVSA&oe=61C976E8&_nc_sid=7bff83",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/c307.0.825.825a/s320x320/250631384_421689215993116_1870795613423426429_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Gl6eJGZhXDYAX8AFNif&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_XkLelBL4vxphkkTRAT5LQAMA7AHXR4jG9OysnejRVEA&oe=61CA652B&_nc_sid=86f79a",
     },
     {
         id: '3',
         name: "Mark Zuckerberg",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/177219615_1728341124004802_3178671336629535217_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=0jrm53_8VuMAX_q9bA2&edm=ABfd0MgBAAAA&ccb=7-4&oh=fc2055ce49ee38d8c4fd7a7ed7f27141&oe=616EF176&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/188084520_625167462215725_451963563410871878_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=wzRReUCQV50AX-aoW6B&edm=AP_V10EBAAAA&ccb=7-4&oh=98ace088938a8204a456ec852b68a55b&oe=617057D6&_nc_sid=4f375e",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/177219615_1728341124004802_3178671336629535217_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=BM6nR0zC6YkAX-uMuVn&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-yAncVg3UCPWkVJtKUt_GyR2FwYicbJRlVM1nmtHfCZQ&oe=61CAAC23&_nc_sid=7bff83",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/257165624_565382301229117_223398014529779896_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=PfW7tF8sP_8AX9bO6nf&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8Dn77Ymygw2UTrnsbUXqHz0cLzLR7KcTuwH3K2Z1NfdQ&oe=61CA09F2&_nc_sid=7bff83",
     },
     {
         id: '4',
         name: "Bill Gates",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/225760187_1015281789289441_8550438468761042274_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=-plqqyWApboAX8UUJ6P&edm=ABfd0MgBAAAA&ccb=7-4&oh=b0770c70cb90e5497372219c8a467674&oe=617031BB&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/241392260_566239541159212_2160972868549498660_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=CvLmZcE1yjcAX9T4Qi9&edm=AP_V10EBAAAA&ccb=7-4&oh=3307590192847328baa853d320d6a159&oe=616EB7B6&_nc_sid=4f375e",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/225760187_1015281789289441_8550438468761042274_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=oCJ9SsXkp7UAX9shIQW&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT-zZAg5Mthlm_TvQZsJgPluqbghxiRECRwJpS9GLNe7hg&oe=61CA392E&_nc_sid=9a90d6",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/247703574_275063081189568_1795322260860244925_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=INR0qPVy-2QAX8OcMXJ&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9HCF3i4IqKTA5JuQaIv8nFw5t6QkTnXA02D4aRcMcxIw&oe=61CB612D&_nc_sid=7bff83",
     },
     {
         id: '5',
         name: "Guido van Rossum",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/80375142_453766435573034_5771978090641096704_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=PaU2qWxbXRYAX86NVfC&edm=ABfd0MgBAAAA&ccb=7-4&oh=b7173c5a90ae2443f104dc01c42f2e4a&oe=6170314F&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/242809705_222959029869776_3834951698013920079_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=JbNEpsutngUAX__fyZF&edm=AP_V10EBAAAA&ccb=7-4&oh=6ec031341acbb42565c19cf0ab79d638&oe=616FCA55&_nc_sid=4f375e",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/80375142_453766435573034_5771978090641096704_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=kpgJ0FI0pK8AX_B8Hs7&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8IKZxa-WW1pqrxDf2PaV_95f1DuGuu4e9x41TQbCe_QA&oe=61CADE7F&_nc_sid=7bff83",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/266368965_667195491111498_5430470341644236674_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=8K0HCrTEweIAX_PkoeE&tn=8g6_A4PYPSD0tHzA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9RbbpdiWHWkokwAEPg1i_xpTCgACSWfvgfmtM-17yKAA&oe=61CB44C3&_nc_sid=7bff83",
     },
     {
         id: '6',
         name: "Ivan Lara",
-        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s320x320/237701392_820046848593104_4269712248220123619_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_ohc=C4jV3Zhcip4AX-GdLr_&edm=ABfd0MgBAAAA&ccb=7-4&oh=d1e6f473c522f0fc9816947ba56ec572&oe=616FEDF0&_nc_sid=7bff83",
-        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/130851282_685447185504117_3419873518524104468_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=SN92kOnxOOUAX-PW_H_&edm=AP_V10EBAAAA&ccb=7-4&oh=c4159bccfe98a4b806438902b8384482&oe=616F86A4&_nc_sid=4f375e",
+        src: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-19/s150x150/237701392_820046848593104_4269712248220123619_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Wp1YxXfmvvUAX-kqo_j&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-3NdOjddkx6Wh1PcU6zWfTBSnVaq53f1ZRyKG_JQ81Sw&oe=61CA7658&_nc_sid=7bff83",
+        post: "https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/146259572_330126301623833_783647560133418591_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=emwaDRm7rb0AX-v76US&tn=8g6_A4PYPSD0tHzA&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT_406bBecUWf4svEF3bJ5loFGQz32SzxgYcjTbh0pCuoQ&oe=61CA6F75&_nc_sid=4f375e",
     },
 ];
 
@@ -64,35 +64,35 @@ export const posts: Post[] = [
     {
         id: '111',
         title: 'Feeling good!',
-        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/149763184_813236049273200_207535782368099585_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ht_ILIi7yFAAX_obrqa&edm=AP_V10EBAAAA&ccb=7-4&oh=eb76ba27c01fe53c9786df42af85a399&oe=616F36D8&_nc_sid=4f375e',
+        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/130851282_685447185504117_3419873518524104468_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=jQYEJKE4T9sAX8eL3E7&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT-fpXzAVtbNToB3oQbGk65hpArgFfqiCcqnakgM0dmGzw&oe=61CA361A&_nc_sid=4f375e',
         name: 'Ivan Lara',
         date: '12 de Octubre a las 10:20'
     },
     {
         id: '222',
         title: 'Feeling good!',
-        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/117693704_124755999240410_5240165352704521782_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=J0xZJTxgpOYAX8zPtwB&edm=AP_V10EBAAAA&ccb=7-4&oh=fcc5e2d489f0b19c8b77e3f1f5e1ffdb&oe=616FC0E2&_nc_sid=4f375e',
+        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/230631094_953633625196244_5774318976300849117_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=lMa7W4Loj7sAX-7vsYH&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT9MC3wg-af-h9ubWaojpkNufGwGsAnNfTIXmPbdIErQMw&oe=61C9C82A&_nc_sid=4f375e',
         name: 'Bill Gates',
         date: '09 de Octubre a las 07:35'
     },
     {
         id: '333',
         title: 'Feeling good!',
-        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/146259572_330126301623833_783647560133418591_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=VGUHj4gFF-gAX8DJnW1&tn=WdOe-MWqYwxXhb1x&edm=AP_V10EBAAAA&ccb=7-4&oh=4eb49f51583dcc52375292b34de28411&oe=616F0344&_nc_sid=4f375e',
+        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/141440025_336661654160736_8548630946381360307_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=98pwqpCSqWsAX-wr-bS&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT-TDuccd2Qhq_t9_gIfKgMWsRBhsawNvKpkqP0mlxJXyQ&oe=61CA55B3&_nc_sid=4f375e',
         name: 'Ivan Lara',
         date: '04 de Octubre a las 11:23'
     },
     {
         id: '444',
         title: 'Feeling good!',
-        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/118397600_398872661085626_4863976455703082204_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=qGzWYfbWx74AX_0P0GN&edm=AP_V10EBAAAA&ccb=7-4&oh=725e2f5909085592f90db990920b83d4&oe=61709E2F&_nc_sid=4f375e',
+        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/82150856_616853899107296_13785390044266629_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=KGBl8CxMYPMAX8NRC3J&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT-He-1O6iwmjNLpPYb4ED4IGFLQQGQDPFh1fIG_O8BSQw&oe=61C9ED9B&_nc_sid=4f375e',
         name: 'Ivan Lara',
         date: '04 de Octubre a las 09:37'
     },
     {
         id: '555',
         title: 'Feeling good!',
-        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/e35/241804172_2934729103409447_7886648124509069077_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2pmC7ey6KY4AX_Vjc1B&edm=AP_V10EBAAAA&ccb=7-4&oh=42b3ff1d3d519757aafe01d3051854f7&oe=61701119&_nc_sid=4f375e',
+        picture: 'https://instagram.fmga7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/261499518_489402662328497_6555398658349718626_n.jpg?_nc_ht=instagram.fmga7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=oVz1p1C9cncAX_ufN3-&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT9YhieMaY9g2TJUPEM6D619jnh1v-sn-Y21l2N4zOOEPA&oe=61CA6196&_nc_sid=4f375e',
         name: 'Elon Musk',
         date: '01 de Octubre a las 23:12'
     },

@@ -10,6 +10,7 @@ interface Props {
 }
 
 const Post = ({ title, picture, name, date }: Props) => {
+
   return (
     <div className="flex flex-col">
       <div className="bg-white mt-5 rounded-md shadow-md">
